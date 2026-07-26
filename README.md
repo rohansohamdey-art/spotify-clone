@@ -32,8 +32,10 @@ spotify-clone/
 │── ...
 ```
 
-## 📸 Screenshot
-(Add a screenshot of the project here)
+## 📸 Project Preview
+
+![Spotify Clone](screenshot.png)
+
 
 ## 🎯 Purpose
 This project was built for learning and practicing HTML and CSS. It helped me improve my understanding of responsive layouts, Flexbox, CSS styling, and UI design.
@@ -42,6 +44,6 @@ This project was built for learning and practicing HTML and CSS. It helped me im
 **Soham Dey**
 
 - GitHub: https://github.com/rohansohamdey-art
-- LinkedIn: (Add your LinkedIn profile link)
+- LinkedIn: https://www.linkedin.com/in/soham-dey-326790316?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ⭐ If you like this project, feel free to give it a star!
